@@ -1,0 +1,10 @@
+body {
+    background-image: url("cow.jpg");
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+}
